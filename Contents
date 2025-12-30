@@ -1,0 +1,14 @@
+azure-linux-security-lab/
+├── README.md
+├── architecture/
+│   └── architecture-diagram.png
+├── azure/
+│   ├── nsg-rules.md
+│   ├── rbac.md
+│   └── defender-notes.md
+├── linux/
+│   ├── hardening-steps.md
+│   ├── ssh-config.md
+│   └── auditd.md
+└── logs/
+    └── sample-logs.md
